@@ -27,7 +27,8 @@ export const typeDefs = gql`
         _id: ID!
         internalName: String
     }
-
+    
+    
     type Booger {
         _id: ID!
         nftId: String
